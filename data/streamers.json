@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "username": "cuteGirl",
+        "displayName": "theMostCutieGirl",
+        "followers": 20000000000,
+        "isPartner": true,
+        "streamingSince": "2019-03-15T20:00:00.000Z",
+        "categories": ["Just Chatting", "Hot Tubs", "Pool"],
+        "averageViewers": 2000000,
+        "language": "en"
+    },
+    {
+        "id": 2,
+        "username": "xQc",
+        "displayName": "xQc",
+        "followers": 100000,
+        "isPartner": true,
+        "streamingSince": "2017-06-10T18:00:00.000Z",
+        "categories": ["Just Chatting", "GTA", "MineCraft"],
+        "averageViewers": 50000,
+        "language": "en"
+    },
+    {
+        "id": 3,
+        "username": "avice",
+        "displayName": "avice aura",
+        "followers": 10000,
+        "isPartner": true,
+        "streamingSince": "2020-11-05T15:00:00.000Z",
+        "categories": ["Dota 2"],
+        "averageViewers": 6000,
+        "language": "ru"
+    }
+]
